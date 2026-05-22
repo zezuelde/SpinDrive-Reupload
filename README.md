@@ -4,6 +4,7 @@ This mod was NOT entirely made by me, nor was any of the parts,
 it is simply just a reupload that isn't public onto SPACEDOCK to avoid getting nuked.
 The original Mod was created by NoLifeJordan and used the MIT License.
 Maintained by Chitak985 and also Zezuel and Uploaded by Zezuel. 
+ 
  DEPENDENCIES: 
 
 Waterfall 
